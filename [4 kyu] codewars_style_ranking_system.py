@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/51fda2d95d6efda45e00004e
+
 class User:
     ranks = [-8, -7, -6, -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 6, 7, 8]
 
@@ -42,3 +44,4 @@ user.inc_progress(8)
 print(user.ranks)
 print(user.rank)
 print(user.progress)
+
