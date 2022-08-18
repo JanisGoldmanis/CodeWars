@@ -12,3 +12,4 @@ def DNA_strand(dna):
     return result
 
 print(DNA_strand('ATTGC'))
+
